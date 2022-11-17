@@ -1,0 +1,15 @@
+%******************************************************************************************************************%
+% The OPRi dataset is collected with 64 cameras in real-world highway intersection toll booths.                    %
+% A total of 17835 vehicles are annotated. 8917 vehicles are used for testing. The remaining 8918 vehicles are 		   %
+% for testing.                                                                                                     %
+% There are 63673 images in the test set, and 67321 images in the training set.                                    %
+%                                                                                                                  %
+% This dataset should be used for research only. Please DO NOT distribute or use it for commercial purpose.        %
+%******************************************************************************************************************%
+
+Content in the directory:
+1. "image_query/". This dir contains 8917 images as queries.
+2. "image_test/". This dir contains 54756 images for testing.
+3. "image_train/". This dir contains 67321 images for training.
+
+If you have any problem, please contact kmustkzy@126.com.
