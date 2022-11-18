@@ -7,7 +7,7 @@
 - This project is based on the strong person re-identification baseline: Bag of Tricks[3] ([paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/TRMTMCT/Luo_Bag_of_Tricks_and_a_Strong_Baseline_for_Deep_Person_CVPRW_2019_paper.pdf) and [official code](https://github.com/michuanhaohao/reid-strong-baseline)).
 
 
-- This project is based on the Domain agnostic learning with disentangled representations[5] ([paper](http://proceedings.mlr.press/v97/peng19b/peng19b.pdf) and [official code](https://github.com/VisionLearningGroup/DAL/tree/19d74cc89a63664a45e79f9aebff32e7dc7bcea1)).
+- This project is based on the domain agnostic learning with disentangled representations[5] ([paper](http://proceedings.mlr.press/v97/peng19b/peng19b.pdf) and [official code](https://github.com/VisionLearningGroup/DAL/tree/19d74cc89a63664a45e79f9aebff32e7dc7bcea1)).
 
 - This package contains the source code which is associated with the following paper:
 ```
