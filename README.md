@@ -31,7 +31,7 @@ python train.py
 (1)To begin testing.(See the code for more details)  
 
 ```
-python test.py
+If the paper is accepted, the training code will be made public immediately.
 ```
 (2)Note that the proposed new protocol for datasets is used for the training set of the target domain.  
 (3)You can download the above models in the paper from [Google Drive](https://drive.google.com/drive/folders/15GtYcUJzjMJawhcIKX1xaDUUoUUNpMke?usp=sharing) (or  [Baidu Disk](https://pan.baidu.com/s/1SJJvFnCJFMa4qMK1QP8Gfg) password:2022 for VeRi776→Opri and VehicleX→Opri).( Useing to verify the effectiveness of the proposed method).
