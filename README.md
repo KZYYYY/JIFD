@@ -15,6 +15,8 @@ Zhenyu Kuang, Chuchu He, Yue Huang, Xinghao Ding and Huafeng Li. Joint Image and
 ```
 - Usage of this code is free for research purposes only. 
 
+We utilize 1 GTX-3090TI GPU for training and testing.
+
 ### Installation
 - The model is learned by pytorch. See Bag of Tricks[3] for more Settings.
 
