@@ -20,6 +20,7 @@ Zhenyu Kuang, Chuchu He, Yue Huang, Xinghao Ding and Huafeng Li. Joint Image and
 
 ### Prepare Datasets
 - Download the original dataset from [VeRi-776](https://vehiclereid.github.io/VeRi/)[1] and [VehicleX](https://github.com/yorkeyao/VehicleX)[4] and [Opri](https://github.com/KZYYYY/JIFD).
+![framework](opri_ours.png)
 
 ### Train.  
 (1)We utilize 1 GTX-3090TI GPU for training and testing..    
