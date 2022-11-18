@@ -36,7 +36,7 @@ If the paper is accepted, the training code will be made public immediately.
 python test.py
 ```
 ![framework](results.png)
-(2)You can download the above models in the paper from [Google Drive](https://drive.google.com/drive/folders/15GtYcUJzjMJawhcIKX1xaDUUoUUNpMke?usp=sharing) (or  [Baidu Disk](https://pan.baidu.com/s/1SJJvFnCJFMa4qMK1QP8Gfg) password:2022 for VeRi-776→Opri and VehicleX→Opri).( Useing to verify the effectiveness of the proposed method).
+(2)You can download the above models in this paper from [Google Drive](https://drive.google.com/drive/folders/15GtYcUJzjMJawhcIKX1xaDUUoUUNpMke?usp=sharing) (or  [Baidu Disk](https://pan.baidu.com/s/1SJJvFnCJFMa4qMK1QP8Gfg) password:2022 for VeRi-776→Opri and VehicleX→Opri).( Useing to verify the effectiveness of the proposed method).
 
 
 ### Dataset in This Paper ( It is for research purposes only. )
