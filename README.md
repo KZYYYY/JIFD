@@ -41,7 +41,8 @@ python test.py
 ### Dataset in This Paper ( It is for research purposes only. )
 
 - Download the original dataset from [VeRi-776](https://vehiclereid.github.io/VeRi/)[1] and [VehicleX](https://github.com/yorkeyao/VehicleX)[4] and [Opri](https://github.com/KZYYYY/JIFD).
-**Description of Opri**:We build a fine-grained vehicle dataset "Optimus Prime (Opri)", which is composed entirely of truck images. The dataset collects a total of 130,994 images of 17,835 trucks, which are captured by a network of cameras at highway toll booths. And all the images collected by the Opri dataset are 4K resolution. Fig.\ref{fig:2} shows sample images of the Opri dataset.
+
+**Description of Opri**:We build a fine-grained vehicle dataset "Optimus Prime (Opri)", which is composed entirely of truck images. The dataset collects a total of 130,994 images of 17,835 trucks, which are captured by a network of cameras at highway toll booths. And all the images collected by the Opri dataset are 4K resolution. The following figure  shows sample images of the Opri dataset.
 ).  
 ![framework](samples.png)
 
