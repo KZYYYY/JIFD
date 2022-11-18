@@ -56,8 +56,7 @@ python test.py
 [1]Liu X, Liu W, Mei T, et al. A deep learning-based approach to progressive vehicle re-identification for urban surveillance[C]//European conference on computer vision. Springer, Cham, 2016: 869-884.  
 [2]K. Yang, T. Zhou, Y. Zhang, X. Tian, and D. Tao, “Class-disentanglement and applications in adversarial detection and defense,” in Advances in Neural Information Processing Systems (NeurlPS), 2021.
 [3]Luo H, Gu Y, Liao X, et al. Bag of tricks and a strong baseline for deep person re-identification[C]//Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops. 2019: 0-0.
-[4]M. Naphade, S. Wang, B. Anastasiu, Z. Tang, M. Chang, X. Yang, L. Zheng, A. Sharma, R. Chellappa, and P. Chakraborty, “The 4th ai city challenge,” in IEEE Conference on Computer Vision and Pattern
-Recognition (CVPR), 2020
+[4]M. Naphade, S. Wang, B. Anastasiu, Z. Tang, M. Chang, X. Yang, L. Zheng, A. Sharma, R. Chellappa, and P. Chakraborty, “The 4th ai city challenge,” in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020
 [5]Peng X, Huang Z, Sun X, et al. Domain agnostic learning with disentangled representations[C]//International Conference on Machine Learning. PMLR, 2019: 5102-5112.
 [6]W. Wang, F. Zhao, S. Liao, S. Member, and L. Shao, “Attentive waveblock: Complementarity-enhanced mutual networks for unsupervised domain adaptation in person re-identification and beyond,” IEEE Transactions on Image Processing, 2022.
 [7]Y. Ge, F. Zhu, D. Chen, R. Zhao, and hongsheng Li, “Self-paced contrastive learning with hybrid memory for domain adaptive object re-id,” in Advances in Neural Information Processing Systems (NeurlPS), 2020.
