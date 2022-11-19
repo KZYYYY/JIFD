@@ -19,7 +19,9 @@ Zhenyu Kuang, Chuchu He, Yue Huang, Xinghao Ding and Huafeng Li. Joint Image and
 - The model is learned by pytorch. See Bag of Tricks[3] for more Settings.
 
 ### Prepare Datasets
-- Download the original dataset from [VeRi-776](https://vehiclereid.github.io/VeRi/)[1] and [VehicleX](https://github.com/yorkeyao/VehicleX)[4] and [Opri](https://github.com/KZYYYY/JIFD).
+- Download the original dataset from [VeRi-776](https://vehiclereid.github.io/VeRi/)[1] and [VehicleX](https://github.com/yorkeyao/VehicleX)[4] .
+
+- Download the [Opri](https://github.com/KZYYYY/JIFD) dataset.
 ![framework](opri_ours.jpg)
 
 ### Train.  
