@@ -29,7 +29,7 @@ Zhenyu Kuang, Chuchu He, Yue Huang, Xinghao Ding and Huafeng Li. Joint Image and
 (2)To begin training.(See the code for more details)
 
 ```
-If the paper is accepted, the training code will be made public immediately.
+If the paper is accepted, the training code will be updated soon.
 ```
 ### Test.   
 (1)To begin testing.(See the code for more details)  
