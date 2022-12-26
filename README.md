@@ -1,7 +1,7 @@
 ![Python >=3.5](https://img.shields.io/badge/Python->=3.7-blue.svg)
 ![PyTorch >=1.0](https://img.shields.io/badge/PyTorch->=1.0-yellow.svg)
 
-## Joint Image and Feature Level Disentanglement for Generalizable Vehicle Re-Identification
+## Joint Image and Feature Levels Disentanglement for Generalizable Vehicle Re-Identification
 
 ### Usage
 - This project is based on the strong person re-identification baseline: Bag of Tricks[3] ([paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/TRMTMCT/Luo_Bag_of_Tricks_and_a_Strong_Baseline_for_Deep_Person_CVPRW_2019_paper.pdf) and [official code](https://github.com/michuanhaohao/reid-strong-baseline)).
