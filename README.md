@@ -38,7 +38,7 @@ If the paper is accepted, the training code will be updated soon.
 python test.py
 ```
 ![framework](results.png)
-![framework](veri+vehicleX2opri.png)
+![framework](results_2.png)
 
 (2)You can download the above models in this paper from [Google Drive](https://drive.google.com/drive/folders/15GtYcUJzjMJawhcIKX1xaDUUoUUNpMke?usp=sharing) (or  [Baidu Disk](https://pan.baidu.com/s/1SJJvFnCJFMa4qMK1QP8Gfg) password:2022 for VeRi-776→Opri and VehicleX→Opri).( Useing to verify the effectiveness of the proposed method).
 
